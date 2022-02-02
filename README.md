@@ -3,5 +3,7 @@ Interpreter and Translator for TestOut LabSims
 ## How to
  ...
 ## Contributors
- Interpreter - ILikeBreadYum
- Translator - DeadTheAmazing
+### Devs
+ILikeBreadYum
+### Managers
+DeadTheAmazing
