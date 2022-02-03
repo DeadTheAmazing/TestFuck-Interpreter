@@ -1,4 +1,7 @@
-# TestFuck-Interpreter
+<p align="center">
+        <img src="https://raw.githubusercontent.com/DeadTheAmazing/TestFuck-Interpreter/main/testfuck.svg?sanitize=true"
+        height="130">
+</p>
 Interpreter and Translator for TestOut LabSims
 ## How to
 To use the "TestFuck-Interpreter" you must go to the [Bookmarks file](https://github.com/DeadTheAmazing/TestFuck-Interpreter/blob/main/bookmarks.txt) and by making bookmarks on your device of both of the JS commands you are nearly complete.
