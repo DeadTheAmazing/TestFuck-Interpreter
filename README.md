@@ -4,6 +4,8 @@
 </p>
 <p align=center><b>Interpreter and Translator for TestOut LabSims</b></p>
 <hr>
+<h3> Disclaimer </h3>
+This program is many years old at this rate and I no longer have any want to work on this! Nor could I if i wanted to! Please fork this and work on it yourself so others may experience the joy of not working!
 <h2> How To </h2>
 <p><a href="https://github.com/DeadTheAmazing/TestFuck-Interpreter/blob/main/bookmarks.txt" alt="funny">Open me in new tab and bookmark both lines of code</a><br>
 <br>To use the "get answers" code, complete the test and then open the bookmark, copy the array that is generated.<br>
